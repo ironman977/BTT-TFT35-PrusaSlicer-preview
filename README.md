@@ -2,4 +2,8 @@
 Convert PrusaSlicer thumbnails into BTT-TFT format
 
 
-![Image of Yaktocat](https://octodex.github.com/ironman977/BTT-TFT35-PrusaSlicer-preview/images/TFT35_preview_in_action.jpg)
+![TFT](images/TFT35_preview_in_action.jpg)
+
+![PrusaSlicer 1](../main/images/pursaslicer_enable_thumbnails.png)
+
+
